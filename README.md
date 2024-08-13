@@ -22,7 +22,7 @@ Welcome to my Java Learning Repository! This repository contains notes and resou
 1. Clone the repository:
    
    ```bash
-   git clone https://github.com/yourusername/java-learning-repo.git
+   git clone https://github.com/Akshay-Gengaje/Core-Java.git
    ```
 
 # 
